@@ -12,7 +12,7 @@ chapter_01.ipynb: Giving Computers the Ability to Learn from Data
 
 chapter_02.ipynb: Training Machine Learning Algorithms for Classification
 
-chapter_03.ipynb: A Tour of Machine Learning Classifirs Using Scikit-learn
+chapter_03.ipynb: A Tour of Machine Learning Classifiers Using Scikit-learn
 
 chapter_04.ipynb: Building Good Training Sets - Data Preprocessing
 
