@@ -1,4 +1,4 @@
-# python_machine_learning_Sebastian_Raschka_jupyter_notebooks
+# Python machine learning by Sebastian Raschka jupyter notebooks
 
 This repository contains python codes written in jupyter notebook files from the book: Python Machine Learning - Sebastian Raschka.
 
